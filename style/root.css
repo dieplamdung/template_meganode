@@ -1,0 +1,45 @@
+:root{
+    --primary-color:#fff;
+    --primary-font:14px;
+
+    --space_1:4px;
+    --space_2:8px;
+    --space_3:10px;
+    --space_4:14px;
+
+}
+
+@font-face {
+    font-family: "SVN-Gilroy";
+    src: url("/assest//fonts/SVN-Gilroy Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy";
+    font-weight: 100;
+    src: url("/assest/fonts/SVN-Gilroy Thin.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy";
+    font-weight: 300;
+    src: url("/assest/fonts/SVN-Gilroy Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy";
+    font-weight: 500;
+    src: url("/assest/fonts/SVN-Gilroy Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy";
+    font-weight: 600;
+    src: url("/assest/fonts/SVN-Gilroy Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "SVN-Gilroy";
+    font-weight: 700;
+    src: url("/assest/fonts/SVN-Gilroy XBold.otf") format("opentype");
+}
